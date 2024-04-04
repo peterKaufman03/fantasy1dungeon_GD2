@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Traps/BP_Trap_SpikesPressurePlate.uasset
+Content/Traps/BP_Trap_PressurePlate.uasset

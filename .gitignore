@@ -75,3 +75,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Content/Traps/BP_Trap_SpikesPressurePlate.uasset
 Content/Traps/BP_Trap_PressurePlate.uasset
+*.uasset

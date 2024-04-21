@@ -76,3 +76,7 @@ DerivedDataCache/*
 Content/Traps/BP_Trap_SpikesPressurePlate.uasset
 Content/Traps/BP_Trap_PressurePlate.uasset
 *.uasset
+Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset
+Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset
+Content/Traps/L_TrapMap.umap
+Content/WidgetsUI/W_Pause.uasset

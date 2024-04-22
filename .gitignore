@@ -80,5 +80,10 @@ Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
 Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset
 Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset
 Content/AI_Blueprints/BP_AiPatroller.uasset
-Content/Beholder/BP_FirstPersonProjectile.uasset
-Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset
+Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset
+Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
+Content/AI_Blueprints/BP_AiPatroller.uasset
+Content/AI_Blueprints/BP_AiPatroller.uasset
+Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset
+Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
+Content/FirstPerson/Input/IMC_Default.uasset
